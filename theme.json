@@ -1,9 +1,7 @@
 {
     "name": "No Collapse Arrows",
-    "description": "This style **HIDES** collapse arrows.",
+    "description": "This style HIDES collapse arrows.",
     "version": "1.0.0",
-    "author": "Amaru",
-    "github_repo": "Amaru8/HideCollapseArrowsCider",
-    "id": 458413932,
-    "commit": "88d3cf8b0af195df93521c99842b633e3d0beef0"
+    "author": "Amaru8",
+    "github_repo": "Amaru8/HideCollapseArrowsCider"
 }
