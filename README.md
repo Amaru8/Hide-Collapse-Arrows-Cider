@@ -1,4 +1,4 @@
-# ➡️ Hide Collapse Arrows
+# ➡️ Hide Collapse Arrows (Cider Legacy)
 
 > [!WARNING]  
 >This project has been archived, and no further updates or support will be provided under any circumstances. I highly recommend switching to [Cider v2](https://cider.sh/downloads/client) for the latest themes, features, improvements, and continued support.
